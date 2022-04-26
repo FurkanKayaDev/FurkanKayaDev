@@ -18,7 +18,7 @@
 
 
 ### 🛠  Tech Stack  
-  <br><tr>
+  <br>
 <div align="center">  
 <img style="marginLeft: 20" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="100" />  
 <img style="marginLeft: 20" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="100" />  
@@ -28,8 +28,8 @@
 <img style="marginLeft: 20px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="100" />
 </div>
   
-<tr>
-<br/>  
+
+<br/>  <br>
 
 
 ## Connect with me  
