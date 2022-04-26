@@ -7,6 +7,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![React Native](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 
 
 
