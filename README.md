@@ -1,5 +1,5 @@
 
-# <div align="left">Hi there 👋, I'm Furkan Kaya </div>  
+## <div align="left">Hi there 👋, I'm Furkan Kaya </div>  
   
 
 - I'm a Frontend Developer  
