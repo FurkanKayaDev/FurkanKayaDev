@@ -7,6 +7,8 @@
   
 
 - I'm a Frontend Developer  
+- I’m currently learning React,React Native, Node.js,
+- How to reach me: You can reach from my social media account.
   
 
 <br/>  
