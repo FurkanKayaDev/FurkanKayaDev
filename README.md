@@ -1,9 +1,5 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="height: 75%" />
-</div>  
-  
 
-### <div align="center">Hey! I'm Furkan</div>  
+# <div align="center">Hi there 👋, I'm Furkan Kaya </div>  
   
 
 - I'm a Frontend Developer  
