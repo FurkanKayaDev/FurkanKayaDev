@@ -18,8 +18,8 @@
 ### 🛠  Tech Stack  
   <br>
 <div align="center">  
-<img style="marginLeft: 20" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="100" />  
-<img style="marginLeft: 20" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="100" />  
+<img style="marginLeft: 20px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="100" />  
+<img style="marginLeft: 20px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="100" />  
 <img style="marginLeft: 20px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="100" />  
 <img style="marginLeft: 20px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="100" />  
 <img style="marginLeft: 20px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="100" />  
