@@ -1,12 +1,12 @@
+## <div align="center">Hi there 👋, I'm Furkan Kaya </div>  
+
 ![](https://res.cloudinary.com/practicaldev/image/fetch/s--5SXqnWZ2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/2ciu6mo6r9x9zyverc10.gif)
 
-
-## <div align="left">Hi there 👋, I'm Furkan Kaya </div>  
-  
-
-- I'm a Frontend Developer  
-- I’m currently learning React,React Native, Node.js,
-- How to reach me: You can reach from my social media account.
+- 🌱 I’m currently learning React and React Native.
+- 👯 I’m looking to collaborate on React projects.
+- 🤔 I’m looking for help with my problems.
+- 📫 How to reach me: You can reach from my social media account.
+- 
   
 
 <br/>  
