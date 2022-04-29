@@ -6,7 +6,6 @@
 - 👯 I’m looking to collaborate on React projects.
 - 🤔 I’m looking for help with my problems.
 - 📫 How to reach me: You can reach from my social media account.
-- 
   
 
 <br/>  
