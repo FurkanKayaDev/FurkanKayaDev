@@ -25,8 +25,7 @@
   
 
 <br/>  <br>
-
-https://github-readme-stats-eight-theta.vercel.app/api?username=lyndray&show_icons=true&theme=algolia&include_all_commits=true&count_private=true
+![Anurag's github stats]([https://github-readme-stats.vercel.app/api?username=anuraghazra](https://github-readme-stats-eight-theta.vercel.app/api?username=lyndray&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)) 
 
 <br/>  <br>
 
