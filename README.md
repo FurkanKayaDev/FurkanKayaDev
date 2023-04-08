@@ -26,6 +26,10 @@
 
 <br/>  <br>
 
+https://github-readme-stats-eight-theta.vercel.app/api?username=lyndray&show_icons=true&theme=algolia&include_all_commits=true&count_private=true
+
+<br/>  <br>
+
 
 ## Connect with me  
 <div align="center">
