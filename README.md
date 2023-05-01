@@ -13,7 +13,7 @@
 <a href="https://github.com/lyndray">
   <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lyndray&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lyndray&layout=compact&langs_count=8&theme=algolia"/>
-  <img height="180" width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=lyndray&theme=dark"/> 
+  <img height="180" width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=lyndray&theme=algolia"/> 
 </a>
 </p>
 
