@@ -10,10 +10,10 @@
 
 <br/>  
 <p>
-<a href="https://github.com/lyndray">
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lyndray&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lyndray&layout=compact&langs_count=8&theme=algolia"/>
-  <img height="180" width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=lyndray&theme=algolia"/> 
+<a href="https://github.com/FurkanKayaDev">
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FurkanKayaDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FurkanKayaDev&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180" width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=FurkanKayaDev&theme=algolia"/> 
 </a>
 </p>
 
@@ -38,7 +38,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/Lyndray" target="_blank">
+<a href="https://github.com/FurkanKayaDev" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/furkankaya98/" target="_blank">
