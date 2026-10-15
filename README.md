@@ -1,64 +1,38 @@
-## <div align="left">Hi there 👋, I'm Furkan Kaya </div>  
+## Hi, I'm Furkan 👋
 
-![](https://res.cloudinary.com/practicaldev/image/fetch/s--5SXqnWZ2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/2ciu6mo6r9x9zyverc10.gif)
+**Senior React Native Developer** · iOS & Android · TypeScript, Expo, Swift
 
-- I am a React Native Developer focused on building scalable and high-performance mobile applications.
-  
+I've been building iOS and Android apps with React Native for 4.5+ years, from fintech products with payments, credit and identity flows to my own subscription apps on the App Store. I care about apps that feel native, stay fast and are easy to keep shipping.
 
-<br/>  
-<p>
-<a href="https://github.com/FurkanKayaDev">
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FurkanKayaDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FurkanKayaDev&layout=compact&langs_count=8&theme=algolia"/>
-  <img height="180" width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=FurkanKayaDev&theme=algolia"/> 
-</a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-furkankaya98-0A66C2?style=flat-square)](https://www.linkedin.com/in/furkankaya98/)
+[![Website](https://img.shields.io/badge/Web-furkankaya.com.tr-111111?style=flat-square)](https://furkankaya.com.tr)
+[![App Store](https://img.shields.io/badge/App_Store-my_apps-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/developer/id1736480461)
+[![Email](https://img.shields.io/badge/Email-furkan18488%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:furkan18488@gmail.com)
 
+### What I work on
 
-<br/>  <br>
+- **React Native, end to end** — production apps for iOS and Android, from Figma handoff and API integration to App Store and Google Play releases.
+- **Fintech flows** — 3D Secure card payments, credit limits, identity verification and KYC document capture.
+- **Architecture and delivery** — React Native upgrades, Redux Toolkit / RTK Query, Storybook component libraries, self-hosted CodePush OTA, Firebase and Sentry observability.
+- **Native when it matters** — Swift modules for the Screen Time API, HealthKit, WidgetKit, Vision / Core ML and PDFKit.
+- **Subscriptions and growth** — Adapty and RevenueCat paywalls, pricing tests, ASO and Apple Search Ads.
+- **Backend when the app needs it** — a self-hosted Node.js AI gateway (Express, Prisma, Docker) with Apple App Attest verification, quotas and cost tracking.
 
-### My Skill Set  
-  <br>
+### Open source
 
-<div align="center">  
-<a href="https://developer.apple.com/swift/" target="_blank" style="background-color: #FFFFFF"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="80" /></a>
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="80" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="80" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="80" /></a>
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="80" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="80" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="80" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="80" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="80" /></a>  
-<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="80" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="80" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="80" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="80" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="80" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="80" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="80" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="80" /></a>  
-</div>
-  
+| Library | What it does | Downloads |
+|---|---|---|
+| [react-native-linear-text-gradient](https://github.com/FurkanKayaDev/react-native-linear-gradient-text) | Gradient-filled text for iOS and Android | [![npm](https://img.shields.io/npm/dt/@furkankaya/react-native-linear-text-gradient?style=flat-square&label=npm)](https://www.npmjs.com/package/@furkankaya/react-native-linear-text-gradient) |
+| [react-native-spotlight-guide](https://github.com/FurkanKayaDev/react-native-spotlight-guide) | Spotlight / walkthrough tours for onboarding: four shapes, step navigation, theming | [![npm](https://img.shields.io/npm/dt/react-native-spotlight-guide?style=flat-square&label=npm)](https://www.npmjs.com/package/react-native-spotlight-guide) |
+| [furkankaya-react-native-splash-screen](https://github.com/FurkanKayaDev/furkankaya-react-native-splash-screen) | Splash screen for React Native 0.73+ with a native Swift implementation | [![npm](https://img.shields.io/npm/dt/furkankaya-react-native-splash-screen?style=flat-square&label=npm)](https://www.npmjs.com/package/furkankaya-react-native-splash-screen) |
 
-<br/>  <br>
+### Tech stack
 
+[![Stack](https://skillicons.dev/icons?i=react,ts,swift,nodejs,express,prisma,postgres,firebase,docker,azure,vue,laravel,figma,git&perline=14)](https://skillicons.dev)
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/FurkanKayaDev" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/furkankaya98/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/furkankaya_98/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+**Mobile:** React Native · Expo · TypeScript · Swift · Redux Toolkit · RTK Query · React Navigation · Reanimated · react-hook-form<br>
+**iOS native:** HealthKit · WidgetKit · Screen Time API · Vision · Core ML · PDFKit · StoreKit · App Attest<br>
+**Backend & web:** Node.js · Express · Prisma · PostgreSQL · SQLite · Laravel · Vue 3<br>
+**Delivery:** CodePush · Firebase · Sentry · Jest · Storybook · Docker · Azure · App Store Connect · Google Play Console
 
-<br/>  
-
-
-
+<sub>Most of my day-to-day work lives in private repositories; the contribution graph below includes it.</sub>
