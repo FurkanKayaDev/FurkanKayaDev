@@ -35,4 +35,11 @@ I've been building iOS and Android apps with React Native for 4.5+ years, from f
 **Backend & web:** Node.js · Express · Prisma · PostgreSQL · SQLite · Laravel · Vue 3<br>
 **Delivery:** CodePush · Firebase · Sentry · Jest · Storybook · Docker · Azure · App Store Connect · Google Play Console
 
-<sub>Most of my day-to-day work lives in private repositories; the contribution graph below includes it.</sub>
+### GitHub activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=FurkanKayaDev&theme=dark&hide_border=true">
+  <img alt="GitHub contribution streak" src="https://streak-stats.demolab.com?user=FurkanKayaDev&theme=default&hide_border=true">
+</picture>
+
+<sub>Most of my day-to-day work lives in private repositories; the streak and the contribution graph below include it.</sub>
