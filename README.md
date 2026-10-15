@@ -2,7 +2,7 @@
 
 **Senior React Native Developer** · iOS & Android · TypeScript, Expo, Swift
 
-I've been building iOS and Android apps with React Native for 4.5+ years, from fintech products with payments, credit and identity flows to my own subscription apps on the App Store. I care about apps that feel native, stay fast and are easy to keep shipping.
+I've been building iOS and Android apps with React Native for 5+ years, from fintech products with payments, credit and identity flows to my own subscription apps on the App Store. I care about apps that feel native, stay fast and are easy to keep shipping.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-furkankaya98-0A66C2?style=flat-square)](https://www.linkedin.com/in/furkankaya98/)
 [![Website](https://img.shields.io/badge/Web-furkankaya.com.tr-111111?style=flat-square)](https://furkankaya.com.tr)
